@@ -1,3 +1,3 @@
 # Hello
 
-This iss my project answer repo. feel free to check out
+This is my project answer repo. feel free to check out
